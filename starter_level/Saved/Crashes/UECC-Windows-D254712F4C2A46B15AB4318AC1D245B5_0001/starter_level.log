@@ -1,0 +1,1271 @@
+﻿Log file open, 10/31/22 20:16:34
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=8528)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: starter_level
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:/Users/Dell/Documents/GitHub/game-thesis/starter_level/starter_level.uproject -EpicPortal -epicusername=imbigseth -epicuserid=01d89e20f8d648c18f1f00148e7246c4 -epiclocale=en -epicsandboxid=ue""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (22H2) [10.0.22621.674] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|12th Gen Intel(R) Core(TM) i5-12500H"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="b755c2684d93b75ad59f98986b9cd5ed"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.381986
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +7:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-D254712F4C2A46B15AB4318AC1D245B5
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading VulkanPC ini files took 0.09 seconds
+LogConfig: Display: Loading IOS ini files took 0.09 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.10 seconds
+LogConfig: Display: Loading Android ini files took 0.10 seconds
+LogConfig: Display: Loading Mac ini files took 0.10 seconds
+LogConfig: Display: Loading Unix ini files took 0.11 seconds
+LogConfig: Display: Loading TVOS ini files took 0.11 seconds
+LogConfig: Display: Loading Windows ini files took 0.11 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.11 seconds
+LogConfig: Display: Loading Linux ini files took 0.12 seconds
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (22H2) [10.0.22621.674] (), CPU: 12th Gen Intel(R) Core(TM) i5-12500H, GPU: NVIDIA GeForce RTX 3050 Laptop GPU
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line:  -EpicPortal -epicusername=imbigseth -epicuserid=01d89e20f8d648c18f1f00148e7246c4 -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.10.31-13.16.35:392][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.10.31-13.16.35:392][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.10.31-13.16.35:392][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.10.31-13.16.35:392][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.10.31-13.16.35:392][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.10.31-13.16.35:392][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.10.31-13.16.35:392][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.10.31-13.16.35:392][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.10.31-13.16.35:392][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.10.31-13.16.35:392][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.10.31-13.16.35:392][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.10.31-13.16.35:392][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.10.31-13.16.35:392][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.10.31-13.16.35:392][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.10.31-13.16.35:392][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.10.31-13.16.35:392][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.10.31-13.16.35:392][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.10.31-13.16.35:392][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.10.31-13.16.35:392][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.10.31-13.16.35:392][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.10.31-13.16.35:392][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.10.31-13.16.35:392][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.10.31-13.16.35:392][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.10.31-13.16.35:392][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.10.31-13.16.35:392][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.10.31-13.16.35:392][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.10.31-13.16.35:392][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.10.31-13.16.35:392][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.10.31-13.16.35:392][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.10.31-13.16.35:392][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.10.31-13.16.35:392][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.10.31-13.16.35:392][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.10.31-13.16.35:392][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.10.31-13.16.35:392][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.10.31-13.16.35:392][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.10.31-13.16.35:392][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.10.31-13.16.35:392][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.10.31-13.16.35:392][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.10.31-13.16.35:392][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.10.31-13.16.35:392][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.10.31-13.16.35:392][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.10.31-13.16.35:392][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.10.31-13.16.35:392][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.10.31-13.16.35:392][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.10.31-13.16.35:392][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.10.31-13.16.35:392][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.10.31-13.16.35:392][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.10.31-13.16.35:392][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.10.31-13.16.35:392][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.10.31-13.16.35:392][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.10.31-13.16.35:392][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.10.31-13.16.35:392][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.10.31-13.16.35:392][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.10.31-13.16.35:392][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.10.31-13.16.35:392][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.10.31-13.16.35:392][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.10.31-13.16.35:392][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.10.31-13.16.35:395][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.10.31-13.16.35:395][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.10.31-13.16.35:395][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.10.31-13.16.35:395][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.10.31-13.16.35:395][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.10.31-13.16.35:395][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.10.31-13.16.35:395][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.10.31-13.16.35:395][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.10.31-13.16.35:395][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.10.31-13.16.35:395][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.10.31-13.16.35:395][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.10.31-13.16.35:430][  0]LogD3D12RHI: Aftermath initialized
+[2022.10.31-13.16.35:430][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.10.31-13.16.35:622][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 3050 Laptop GPU (Max supported Feature Level 12_1, shader model 6.6)
+[2022.10.31-13.16.35:623][  0]LogD3D12RHI: Adapter has 3991MB of dedicated video memory, 0MB of dedicated system memory, and 8034MB of shared system memory, 1 output[s]
+[2022.10.31-13.16.35:691][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) Iris(R) Xe Graphics (Max supported Feature Level 12_1, shader model 6.6)
+[2022.10.31-13.16.35:691][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 8034MB of shared system memory, 0 output[s]
+[2022.10.31-13.16.35:706][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.10.31-13.16.35:706][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8034MB of shared system memory, 0 output[s]
+[2022.10.31-13.16.35:707][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.10.31-13.16.35:707][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.10.31-13.16.35:707][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.10.31-13.16.35:707][  0]LogHAL: Display: Platform has ~ 16 GB [16849293312 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.10.31-13.16.35:707][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.10.31-13.16.35:707][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.10.31-13.16.35:707][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.10.31-13.16.35:708][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.10.31-13.16.35:708][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Dell/Documents/GitHub/game-thesis/starter_level/Saved/Config/WindowsEditor/Editor.ini]
+[2022.10.31-13.16.35:708][  0]LogInit: Computer: DESKTOP-TG9OJPU
+[2022.10.31-13.16.35:708][  0]LogInit: User: Dell
+[2022.10.31-13.16.35:708][  0]LogInit: CPU Page size=4096, Cores=12
+[2022.10.31-13.16.35:708][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.10.31-13.16.35:708][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2022.10.31-13.16.35:708][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.10.31-13.16.35:708][  0]LogMemory: Process Physical Memory: 286.31 MB used, 290.00 MB peak
+[2022.10.31-13.16.35:708][  0]LogMemory: Process Virtual Memory: 256.36 MB used, 256.36 MB peak
+[2022.10.31-13.16.35:708][  0]LogMemory: Physical Memory: 11099.89 MB used,  4968.85 MB free, 16068.74 MB total
+[2022.10.31-13.16.35:708][  0]LogMemory: Virtual Memory: 14539.61 MB used,  12281.13 MB free, 26820.74 MB total
+[2022.10.31-13.16.35:708][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.10.31-13.16.35:715][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.10.31-13.16.35:730][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.10.31-13.16.35:730][  0]LogInit: Using OS detected language (en-US).
+[2022.10.31-13.16.35:730][  0]LogInit: Using OS detected locale (th-TH).
+[2022.10.31-13.16.35:734][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.10.31-13.16.35:956][  0]LogInit: Setting process to per monitor DPI aware
+[2022.10.31-13.16.36:011][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.10.31-13.16.36:011][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.10.31-13.16.36:011][  0]LogWindowsTextInputMethodSystem:   - Thai (Thailand) - (Keyboard).
+[2022.10.31-13.16.36:011][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.10.31-13.16.36:027][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.10.31-13.16.36:027][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.10.31-13.16.36:137][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.10.31-13.16.36:141][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.10.31-13.16.36:141][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.10.31-13.16.36:455][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.10.31-13.16.36:456][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.10.31-13.16.36:456][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.10.31-13.16.36:456][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.10.31-13.16.36:456][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.10.31-13.16.36:456][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.10.31-13.16.36:456][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.10.31-13.16.36:456][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.10.31-13.16.36:456][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.10.31-13.16.36:456][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.10.31-13.16.36:456][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2022.10.31-13.16.36:456][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2022.10.31-13.16.36:456][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.10.31-13.16.36:456][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.10.31-13.16.36:456][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.10.31-13.16.36:456][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.10.31-13.16.36:535][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.10.31-13.16.36:547][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.10.31-13.16.36:572][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.10.31-13.16.36:613][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.10.31-13.16.36:613][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.10.31-13.16.36:668][  0]LogD3D12RHI:     GPU DeviceId: 0x25e2 (for the marketing name, search the web for "GPU Device Id")
+[2022.10.31-13.16.36:668][  0]LogWindows: Attached monitors:
+[2022.10.31-13.16.36:668][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1020), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.10.31-13.16.36:668][  0]LogWindows: Found 1 attached monitors.
+[2022.10.31-13.16.36:668][  0]LogWindows: EnumDisplayDevices:
+[2022.10.31-13.16.36:669][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3050 Laptop GPU' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.10.31-13.16.36:669][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3050 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY2'
+[2022.10.31-13.16.36:671][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3050 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.10.31-13.16.36:671][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3050 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.10.31-13.16.36:671][  0]LogWindows:    4. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0), name: '\\.\DISPLAY5'
+[2022.10.31-13.16.36:671][  0]LogWindows:    5. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0), name: '\\.\DISPLAY6'
+[2022.10.31-13.16.36:673][  0]LogWindows:    6. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0), name: '\\.\DISPLAY7'
+[2022.10.31-13.16.36:673][  0]LogWindows:    7. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0), name: '\\.\DISPLAY8'
+[2022.10.31-13.16.36:674][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.10.31-13.16.36:674][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 3050 Laptop GPU
+[2022.10.31-13.16.36:674][  0]LogD3D12RHI:   Driver Version: 517.40 (internal:31.0.15.1740, unified:517.40)
+[2022.10.31-13.16.36:674][  0]LogD3D12RHI:      Driver Date: 9-12-2022
+[2022.10.31-13.16.36:674][  0]LogRHI: Texture pool is 2137 MB (70% of 3053 MB)
+[2022.10.31-13.16.36:674][  0]LogD3D12RHI: Async texture creation enabled
+[2022.10.31-13.16.36:674][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.10.31-13.16.36:708][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.10.31-13.16.36:722][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/Dell/Documents/GitHub/game-thesis/starter_level/starter_level.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Dell/Documents/GitHub/game-thesis/starter_level/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Dell/Documents/GitHub/game-thesis/starter_level/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Dell/Documents/GitHub/game-thesis/starter_level/starter_level.uproject"  -platform=all'
+[2022.10.31-13.16.36:722][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/Dell/Documents/GitHub/game-thesis/starter_level/starter_level.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Dell/Documents/GitHub/game-thesis/starter_level/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Dell/Documents/GitHub/game-thesis/starter_level/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Dell/Documents/GitHub/game-thesis/starter_level/starter_level.uproject"  -platform=all" ]
+[2022.10.31-13.16.36:792][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.10.31-13.16.36:811][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.10.31-13.16.36:811][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.10.31-13.16.36:825][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.10.31-13.16.36:825][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.10.31-13.16.36:825][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.10.31-13.16.36:825][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.10.31-13.16.36:825][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.10.31-13.16.36:825][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.10.31-13.16.36:825][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.10.31-13.16.36:825][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.10.31-13.16.36:825][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.10.31-13.16.36:825][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.10.31-13.16.36:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.10.31-13.16.36:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.10.31-13.16.36:868][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.10.31-13.16.36:868][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.10.31-13.16.36:873][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.10.31-13.16.36:873][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.10.31-13.16.36:873][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.10.31-13.16.36:873][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.10.31-13.16.36:877][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.10.31-13.16.36:877][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.10.31-13.16.36:877][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.10.31-13.16.36:882][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.10.31-13.16.36:882][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.10.31-13.16.36:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.10.31-13.16.36:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.10.31-13.16.36:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.10.31-13.16.36:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.10.31-13.16.36:891][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.10.31-13.16.36:901][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.10.31-13.16.36:906][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.10.31-13.16.36:906][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.10.31-13.16.36:906][  0]LogTargetPlatformManager:   ADPCM
+[2022.10.31-13.16.36:906][  0]LogTargetPlatformManager:   PCM
+[2022.10.31-13.16.36:910][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.10.31-13.16.36:910][  0]LogTargetPlatformManager:   BINKA
+[2022.10.31-13.16.36:910][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.10.31-13.16.36:910][  0]LogTargetPlatformManager:   OGG
+[2022.10.31-13.16.36:910][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.10.31-13.16.36:910][  0]LogTargetPlatformManager:   OPUS
+[2022.10.31-13.16.36:980][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.10.31-13.16.36:980][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.10.31-13.16.36:991][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.10.31-13.16.36:991][  0]LogTargetPlatformManager:   SF_METAL
+[2022.10.31-13.16.36:991][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.10.31-13.16.36:991][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.10.31-13.16.36:991][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.10.31-13.16.36:991][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.10.31-13.16.36:991][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.10.31-13.16.36:991][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.10.31-13.16.36:991][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.10.31-13.16.36:991][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.10.31-13.16.36:991][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.10.31-13.16.36:991][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.10.31-13.16.36:991][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.10.31-13.16.36:991][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.10.31-13.16.36:991][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.10.31-13.16.36:991][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.10.31-13.16.36:995][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.10.31-13.16.36:995][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.10.31-13.16.36:995][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.10.31-13.16.36:995][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.10.31-13.16.36:995][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.10.31-13.16.36:996][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.10.31-13.16.36:996][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.10.31-13.16.36:996][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.10.31-13.16.36:996][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.10.31-13.16.37:008][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.10.31-13.16.37:008][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.10.31-13.16.37:018][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.10.31-13.16.37:026][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.10.31-13.16.37:026][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.10.31-13.16.37:026][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.10.31-13.16.37:026][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.10.31-13.16.37:086][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.10.31-13.16.37:086][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.10.31-13.16.37:086][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.10.31-13.16.37:123][  0]LogDerivedDataCache: Speed tests for C:/Users/Dell/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.04 seconds
+[2022.10.31-13.16.37:123][  0]LogDerivedDataCache: Display: Performance to C:/Users/Dell/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.06ms. RandomReadSpeed=65.19MBs, RandomWriteSpeed=43.42MBs. Assigned SpeedClass 'Local'
+[2022.10.31-13.16.37:126][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Dell/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.10.31-13.16.37:126][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.10.31-13.16.37:126][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.10.31-13.16.37:146][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.10.31-13.16.37:146][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.10.31-13.16.37:147][  0]LogShaderCompilers: Guid format shader working directory is -27 characters bigger than the processId version (../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Intermediate/Shaders/WorkingDirectory/23492/).
+[2022.10.31-13.16.37:147][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Dell/AppData/Local/Temp/UnrealShaderWorkingDir/F88930A145F70FE5BB99EE94FF07F225/'.
+[2022.10.31-13.16.37:148][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.10.31-13.16.37:148][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2022.10.31-13.16.39:976][  0]LogSlate: Using FreeType 2.10.0
+[2022.10.31-13.16.39:976][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.10.31-13.16.40:069][  0]LogAssetRegistry: FAssetRegistry took 0.0285 seconds to start up
+[2022.10.31-13.16.40:081][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.10.31-13.16.40:374][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.10.31-13.16.40:375][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.10.31-13.16.40:886][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.10.31-13.16.40:886][  0]LogDeviceProfileManager: Active device profile: [00000A8A12BD55C0][00000A8A06790000 50] WindowsEditor
+[2022.10.31-13.16.40:886][  0]LogDeviceProfileManager: Profiles: [00000A8A12BD5080][00000A8A06792800 50] Windows, [00000A8A12BD55C0][00000A8A06790000 50] WindowsEditor, [00000A8A12BD40C0][00000A8A0679A000 50] WindowsServer, [00000A8A12BD5780][00000A89F6A07800 50] WindowsClient, [00000A8A12BD1500][00000A8A06767800 50] IOS, [00000A8A12BD4B40][00000A8A06795000 50] iPadAir2, [00000A8A12BD4980][00000A8A12DD0000 50] IPadPro, [00000A8A12BD1880][00000A8A12DD2800 50] iPadAir3, [00000A8A12BD3480][00000A8A12DD7800 50] iPadAir4, [00000A8A12BD5CC0][00000A8A12DDA000 50] iPadMini4, [00000A8A12BD2D80][00000A8A12DDC800 50] iPadMini5, [00000A8A12BD2140][00000A8A06765000 50] iPadMini6, [00000A8A12BD8880][00000A8A12DF2800 50] iPhone6S, [00000A8A12BD8C00][00000A8A12DF0000 50] iPhone7, [00000A8A12BD8500][00000A8A12DF5000 50] iPodTouch7, [00000A8A12BD8180][00000A8A12DFA000 50] iPhone6SPlus, [00000A8A12BD2A00][00000A8A12DFC800 50] iPhone7Plus, [00000A8A12BD1340][00000A8A12DD5000 50] iPhoneSE, [00000A8A12BD7FC0][00000A8A12DF7800 50] iPhone8, [00000A8A12BD32C0][00000A8A12DC0000 50] iPhone8Plus, [00000A8A12BD4600][00000A8A12DC5000 50] iPhoneX, [00000A8A12BD47C0][00000A8A12DC7800 50] iPhoneXS, [00000A8A12BD08C0][00000A8A12DCA000 50] iPhoneXSMax, [00000A8A12BD7C40][00000A8A12DCC800 50] iPhoneXR, [00000A8A12BD1F80][00000A8A0B06C800 50] iPhone11, [00000A8A12BD7A80][00000A8A12E00000 50] iPhone11Pro, [00000A8A12BD0540][00000A8A12E05000 50] iPhone11ProMax, [00000A8A12BD78C0][00000A8A12E07800 50] iPhoneSE2, [00000A8A12BD1C00][00000A8A12E0A000 50] iPhone12Mini, [00000A8A12BD71C0][00000A8A12E0C800 50] iPhone12, [00000A8A12BD7E00][00000A8A12DC2800 50] iPhone12Pro, [00000A8A12BD7000][00000A8A12E50000 50] iPhone12ProMax, [00000A8A12BD39C0][00000A8A12E55000 50] iPhone13Mini, [00000A8A12BD6E40][00000A8A12E57800 50] iPhone13, [00000A8A12BD4D00][00000A8A12E5A000 50] iPhone13Pro, [00000A8A12BD3640][00000A8A12E5C800 50] iPhone13ProMax, [00000A8A12BD2F40][00000A8A12E02800 50] iPadPro105, [00000A8A12BD6040][00000A8A12E20000 50] iPadPro129, [00000A8A12BD6C80][00000A8A12E25000 50] iPadPro97, [00000A8A12BD5940][00000A8A12E27800 50] iPadPro2_129, [00000A8A12BD2BC0][00000A8A12E2A000 50] iPad5, [00000A8A12BD7540][00000A8A12E2C800 50] iPad6, [00000A8A12BD3F00][00000A8A12E52800 50] iPad7, [00000A8A12BD2680][00000A8A12E30000 50] iPad8, [00000A8A12BD8A40][00000A8A12E35000 50] iPad9, [00000A8A12BD2300][00000A8A12E37800 50] iPadPro11, [00000A8A12BD0FC0][00000A8A12E3A000 50] iPadPro2_11, [00000A8A12BD2840][00000A8A12E3C800 50] iPadPro3_11, [00000A8A12BD6200][00000A8A12E22800 50] iPadPro3_129, [00000A8A12BD4EC0][00000A8A12D90000 50] iPadPro4_129, [00000A8A12BD6AC0][00000A8A12D95000 50] iPadPro5_129, [00000A8A12BD6740][00000A8A12D97800 50] AppleTV, [00000A8A12BD8340][00000A8A12D9A000 50] AppleTV4K, [00000A8A12BD3100][00000A8A12D9C800 50] TVOS, [00000A8A12BDAF00][00000A8A12E90000 50] Mac, [00000A8A12BDB280][00000A8A12E92800 50] MacEditor, [00000A8A12BD9D80][00000A8A12E97800 50] MacClient, [00000A8A12BDB440][00000A8A12E9A000 50] MacServer, [00000A8A12BD63C0][00000A8A12E32800 50] Linux, [00000A8A12BD86C0][00000A8A12D92800 50] LinuxEditor, [00000A8A12BDA480][00000A8A12E9C800 50] LinuxArm64Editor, [00000A8A12BD6900][00000A8A12DA0000 50] LinuxArm64, [00000A8A12BD9680][00000A8A12DA5000 50] LinuxClient, [00000A8A12BD4440][00000A8A12DA7800 50] LinuxArm64Client, [00000A8A12BD7700][00000A8A12DAA000 50] LinuxServer, [00000A8A12BD1A40][00000A8A12DAC800 50] LinuxArm64Server, [00000A8A12BD24C0][00000A8A12E95000 50] Android, [00000A8A12BDA9C0][00000A8A12E70000 50] Android_Preview_OpenGL, [00000A8A12BD9A00][00000A8A12E75000 50] Android_Preview_Vulkan, [00000A8A12BDA800][00000A8A12E77800 50] Android_Low, [00000A8A12BD8F80][00000A8A12E7A000 50] Android_Mid, [00000A8A12BD5400][00000A8A12E7C800 50] Android_High, [00000A8A12BD94C0][00000A8A12DA2800 50] Android_Default, [00000A8A12BD1180][00000A8A12E80000 50] Android_Adreno4xx, [00000A8A12BD9140][00000A8A12E85000 50] Android_Adreno5xx_Low, [00000A8A12BD8DC0][00000A8A12E87800 50] Android_Adreno5xx, [00000A8A12BDB0C0][00000A8A12E8A000 50] Android_Adreno6xx, [00000A8A12BD16C0][00000A8A12E8C800 50] Android_Adreno6xx_Vulkan, [00000A8A12BDBB40][00000A8A12E72800 50] Android_Adreno7xx, [00000A8A12BD9840][00000A8A12EA0000 50] Android_Adreno7xx_Vulkan, [00000A8A12BD0700][00000A8A12EA5000 50] Android_Mali_T6xx, [00000A8A12BD3800][00000A8A12EA7800 50] Android_Mali_T7xx, [00000A8A12BDB7C0][00000A8A12EAA000 50] Android_Mali_T8xx, [00000A8A12BD9300][00000A8A12EAC800 50] Android_Mali_G71, [00000A8A12BD4280][00000A8A12E82800 50] Android_Mali_G72, [00000A8A12BDBD00][00000A8A12EB0000 50] Android_Mali_G72_Vulkan, [00000A8A12BD7380][00000A8A12EB5000 50] Android_Mali_G76, [00000A8A12BDAD40][00000A8A12EB7800 50] Android_Mali_G76_Vulkan, [00000A8A12BDBEC0][00000A8A12EBA000 50] Android_Mali_G77, [00000A8A12BDB600][00000A8A12EBC800 50] Android_Mali_G77_Vulkan, [00000A8A12BD3B80][00000A8A12EA2800 50] Android_Mali_G78, [00000A8A12BDC080][00000A8A12EC0000 50] Android_Mali_G78_Vulkan, [00000A8A12BD9F40][00000A8A12EC5000 50] Android_Mali_G710, [00000A8A12BD0000][00000A8A12EC7800 50] Android_Mali_G710_Vulkan, [00000A8A12BDCCC0][00000A8A12ECA000 50] Android_Xclipse_920, [00000A8A12BD6580][00000A8A12ECC800 50] Android_Xclipse_920_Vulkan, [00000A8A12BDC940][00000A8A12EB2800 50] Android_Vulkan_SM5, [00000A8A12BDCE80][00000A8A12ED0000 50] Android_PowerVR_G6xxx, [00000A8A12BDC240][00000A8A12ED5000 50] Android_PowerVR_GT7xxx, [00000A8A12BDA640][00000A8A12ED7800 50] Android_PowerVR_GE8xxx, [00000A8A12BDD040][00000A8A12EDA000 50] Android_PowerVR_GM9xxx, [00000A8A12BDB980][00000A8A12EDC800 50] Android_PowerVR_GM9xxx_Vulkan, [00000A8A12BDDC80][00000A8A12EC2800 50] Android_TegraK1, [00000A8A12BDC5C0][00000A8A12EE0000 50] Android_Unknown_Vulkan, [00000A8A12BDD900][00000A8A12EE5000 50] Oculus_Quest, [00000A8A12BDDE40][00000A8A12EE7800 50] Oculus_Quest2, [00000A8A12BD3D40][00000A8A12EEA000 50] HoloLens, 
+[2022.10.31-13.16.40:886][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.10.31-13.16.40:949][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.10.31-13.16.41:281][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.10.31-13.16.41:281][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.10.31-13.16.41:281][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.10.31-13.16.41:281][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.10.31-13.16.41:281][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.10.31-13.16.41:297][  0]LogNetVersion: starter_level 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 2784509881)
+[2022.10.31-13.16.41:468][  0]LogSlate: Border
+[2022.10.31-13.16.41:469][  0]LogSlate: BreadcrumbButton
+[2022.10.31-13.16.41:469][  0]LogSlate: Default
+[2022.10.31-13.16.41:469][  0]LogSlate: Icons.Save
+[2022.10.31-13.16.41:469][  0]LogSlate: Icons.Toolbar.Settings
+[2022.10.31-13.16.41:469][  0]LogSlate: ListView
+[2022.10.31-13.16.41:469][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.10.31-13.16.41:469][  0]LogSlate: SoftwareCursor_Grab
+[2022.10.31-13.16.41:469][  0]LogSlate: TableView.DarkRow
+[2022.10.31-13.16.41:469][  0]LogSlate: TableView.Row
+[2022.10.31-13.16.41:469][  0]LogSlate: TreeView
+[2022.10.31-13.16.41:739][  0]SourceControl: Source control is disabled
+[2022.10.31-13.16.41:820][  0]SourceControl: Source control is disabled
+[2022.10.31-13.16.41:820][  0]SourceControl: Source control is disabled
+[2022.10.31-13.16.42:131][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.10.31-13.16.42:131][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2022.10.31-13.16.42:131][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.10.31-13.16.43:196][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 1C33082A4D4A798D41257A9F95A39601 | Instance: A85B74D64FCF5E52F5C63095558AF886 (DESKTOP-TG9OJPU-23492).
+[2022.10.31-13.16.43:325][  0]LogPython: Using Python 3.9.7
+[2022.10.31-13.16.45:891][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.10.31-13.16.45:904][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.10.31-13.16.46:046][  0]SourceControl: Source control is disabled
+[2022.10.31-13.16.46:050][  0]SourceControl: Source control is disabled
+[2022.10.31-13.16.46:092][  0]SourceControl: Source control is disabled
+[2022.10.31-13.16.46:097][  0]LogUProjectInfo: Found projects:
+[2022.10.31-13.16.46:122][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.10.31-13.16.46:124][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.10.31-13.16.46:126][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.10.31-13.16.46:883][  0]LogOpenImageDenoise: OIDN starting up
+[2022.10.31-13.16.47:046][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.10.31-13.16.47:103][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.10.31-13.16.47:103][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.10.31-13.16.47:415][  0]LogCollectionManager: Loaded 0 collections in 0.005116 seconds
+[2022.10.31-13.16.47:586][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Dell/Documents/GitHub/game-thesis/starter_level/Saved/Collections/' took 0.00s
+[2022.10.31-13.16.47:586][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Developers/Dell/Collections/' took 0.00s
+[2022.10.31-13.16.47:586][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Collections/' took 0.00s
+[2022.10.31-13.16.48:480][  0]LogEngine: Initializing Engine...
+[2022.10.31-13.16.48:535][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.10.31-13.16.48:543][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.10.31-13.16.49:390][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.10.31-13.16.49:391][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.31-13.16.49:422][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.31-13.16.49:500][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.10.31-13.16.49:501][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.10.31-13.16.49:558][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.10.31-13.16.49:559][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.10.31-13.16.49:559][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.10.31-13.16.49:560][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.10.31-13.16.49:560][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.10.31-13.16.49:560][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.31-13.16.49:560][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.31-13.16.49:561][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.31-13.16.49:561][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.31-13.16.49:561][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.31-13.16.49:561][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.31-13.16.49:561][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.31-13.16.49:561][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.31-13.16.49:561][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.31-13.16.49:562][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.31-13.16.49:562][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.31-13.16.49:577][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.31-13.16.49:652][  0]LogAudioMixer: Display: Using Audio Hardware Device ลำโพง (Realtek(R) Audio)
+[2022.10.31-13.16.49:653][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.31-13.16.49:656][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.31-13.16.49:656][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.31-13.16.49:657][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.10.31-13.16.49:657][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.10.31-13.16.49:662][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.10.31-13.16.49:662][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.10.31-13.16.49:662][  0]LogInit: FAudioDevice initialized.
+[2022.10.31-13.16.49:662][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.10.31-13.16.49:662][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.10.31-13.16.49:662][  0]LogInit: Texture streaming: Enabled
+[2022.10.31-13.16.49:704][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2022.10.31-13.16.49:714][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.10.31-13.16.49:756][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.10.31-13.16.49:765][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.10.31-13.16.49:765][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.10.31-13.16.51:753][  0]LogLiveCoding: Display: First instance in process group "UE_starter_level_0xe03968f9", spawning console
+[2022.10.31-13.16.51:753][  0]LogLiveCoding: Display: Waiting for server
+[2022.10.31-13.16.51:753][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.10.31-13.16.51:786][  0]LogInit: Transaction tracking system initialized
+[2022.10.31-13.16.51:898][  0]BlueprintLog: New page: Editor Load
+[2022.10.31-13.16.52:187][  0]LocalizationService: Localization service is disabled
+[2022.10.31-13.16.52:251][  0]TimingProfiler: Initialize
+[2022.10.31-13.16.52:251][  0]TimingProfiler: OnSessionChanged
+[2022.10.31-13.16.52:252][  0]LoadingProfiler: Initialize
+[2022.10.31-13.16.52:252][  0]LoadingProfiler: OnSessionChanged
+[2022.10.31-13.16.52:252][  0]NetworkingProfiler: Initialize
+[2022.10.31-13.16.52:252][  0]NetworkingProfiler: OnSessionChanged
+[2022.10.31-13.16.52:252][  0]MemoryProfiler: Initialize
+[2022.10.31-13.16.52:252][  0]MemoryProfiler: OnSessionChanged
+[2022.10.31-13.16.52:475][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.10.31-13.16.52:475][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.10.31-13.16.52:477][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.10.31-13.16.52:896][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/' took 0.02s
+[2022.10.31-13.16.52:896][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.10.31-13.16.53:161][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.10.31-13.16.53:165][  0]SourceControl: Source control is disabled
+[2022.10.31-13.16.53:166][  0]LogUnrealEdMisc: Loading editor; pre map load, took 19.312
+[2022.10.31-13.16.53:166][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.31-13.16.53:182][  0]LightingResults: New page: Lighting Build
+[2022.10.31-13.16.53:190][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-13.16.53:191][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-13.16.53:191][  0]MapCheck: New page: Map Check
+[2022.10.31-13.16.53:191][  0]LightingResults: New page: Lighting Build
+[2022.10.31-13.16.53:204][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.31-13.16.53:207][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.10.31-13.16.53:392][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Dell\Documents\GitHub\game-thesis\starter_level\Content\PolygonCityChar\Animation\Test_AnimBP.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'neck_01' - different parents on Control Rig vs SkeletalMesh.
+[2022.10.31-13.16.53:392][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Dell\Documents\GitHub\game-thesis\starter_level\Content\PolygonCityChar\Animation\Test_AnimBP.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'head' - different parents on Control Rig vs SkeletalMesh.
+[2022.10.31-13.16.53:392][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Dell\Documents\GitHub\game-thesis\starter_level\Content\PolygonCityChar\Animation\Test_AnimBP.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'clavicle_l' - different parents on Control Rig vs SkeletalMesh.
+[2022.10.31-13.16.53:392][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Dell\Documents\GitHub\game-thesis\starter_level\Content\PolygonCityChar\Animation\Test_AnimBP.uasset: [Compiler] Control Rig  - Hierarchy discrepancy for bone 'clavicle_r' - different parents on Control Rig vs SkeletalMesh.
+[2022.10.31-13.16.53:867][  0]LogSkeletalMesh: Display: [AssetLog] C:\Users\Dell\Documents\GitHub\game-thesis\starter_level\Content\PolygonCityChar\Characters\SK_Character_Gangster.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2022.10.31-13.16.53:885][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2022.10.31-13.16.53:899][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.31-13.16.53:900][  0]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.10.31-13.16.53:900][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.31-13.16.53:900][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.10.31-13.16.54:344][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Cube.Shape_Cube should be resaved to improve async compilation performance.
+[2022.10.31-13.16.55:068][  0]LogWorldPartition: Display: WorldPartition initialize took 1.16 sec
+[2022.10.31-13.16.55:086][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.31-13.16.55:105][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.10.31-13.16.55:105][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.31-13.16.55:106][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.314ms to complete.
+[2022.10.31-13.16.55:106][  0]LogFileHelpers: Loading map 'ThirdPersonMap' took 1.941
+[2022.10.31-13.16.55:121][  0]LogUnrealEdMisc: Total Editor Startup Time, took 21.267
+[2022.10.31-13.16.55:121][  0]LogShaderCompilers: Display: ================================================
+[2022.10.31-13.16.55:121][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.31-13.16.55:121][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.10.31-13.16.55:121][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.10.31-13.16.55:121][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.10.31-13.16.55:121][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.10.31-13.16.55:121][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.10.31-13.16.55:121][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.10.31-13.16.55:121][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.10.31-13.16.55:121][  0]LogShaderCompilers: Display: ================================================
+[2022.10.31-13.16.55:285][  0]LogSlate: The tab "LevelEditorToolBar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.10.31-13.16.55:321][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.31-13.16.55:328][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.31-13.16.55:334][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.31-13.16.55:342][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.31-13.16.55:408][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.10.31-13.16.55:408][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.31-13.16.55:423][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.10.31-13.16.55:423][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.31-13.16.55:436][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.10.31-13.16.55:436][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.31-13.16.55:447][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.10.31-13.16.55:447][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.31-13.16.55:471][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.10.31-13.16.55:471][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.31-13.16.55:485][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.10.31-13.16.55:485][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.31-13.16.55:496][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.10.31-13.16.55:496][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.31-13.16.55:505][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.10.31-13.16.55:505][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.31-13.16.55:515][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.10.31-13.16.55:515][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.31-13.16.55:526][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.10.31-13.16.55:526][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.31-13.16.55:526][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2022.10.31-13.16.56:156][  0]LogSlate: Took 0.000287 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.10.31-13.16.56:159][  0]LogSlate: Took 0.000255 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.10.31-13.16.56:171][  0]LogSlate: Took 0.007119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.10.31-13.16.56:180][  0]LogSlate: Took 0.006032 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.10.31-13.16.56:193][  0]LogSlate: Took 0.012324 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.10.31-13.16.56:244][  0]LogViewport: Scene viewport resized to 925x370, mode Windowed.
+[2022.10.31-13.16.56:367][  0]LogSlate: Took 0.005318 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.10.31-13.16.57:302][  0]LogStall: Startup...
+[2022.10.31-13.16.57:308][  0]LogStall: Startup complete.
+[2022.10.31-13.16.57:347][  0]LogLoad: (Engine Initialization) Total time: 23.49 seconds
+[2022.10.31-13.16.57:347][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.10.31-13.16.57:457][  0]LogAssetRegistry: Asset discovery search completed in 17.3911 seconds
+[2022.10.31-13.16.57:463][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.10.31-13.16.57:465][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.10.31-13.16.57:760][  1]LogSkeletalMesh: Display: [AssetLog] C:\Users\Dell\Documents\GitHub\game-thesis\starter_level\Content\PolygonCityChar\Characters\SK_Character_FastFoodGuy.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2022.10.31-13.16.57:760][  1]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (SK_Character_FastFoodGuy) ...
+[2022.10.31-13.18.38:514][303]LogDerivedDataCache: C:/Users/Dell/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.222 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.31-13.19.24:184][971]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2022.10.31-13.19.24:186][971]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.31-13.19.27:308][971]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2022.10.31-13.19.27:308][971]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.049438s
+[2022.10.31-13.19.27:496][971]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.005665s (0.368470s overbudget)
+[2022.10.31-13.19.27:521][971]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.10.31-13.19.40:155][652]LogViewport: Scene viewport resized to 1134x635, mode Windowed.
+[2022.10.31-13.19.54:844][311]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.31-13.19.56:519][357]LogSlate: Took 0.000332 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.10.31-13.20.08:578][896]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (SKM_Manny) ...
+[2022.10.31-13.20.08:721][896]LogAnimation: Warning: AnimBP Test_AnimBP_C is incompatible with skeleton SK_Mannequin, removing AnimBP from actor.
+[2022.10.31-13.20.08:724][896]LogAnimation: Warning: AnimBP Test_AnimBP_C is incompatible with skeleton SK_Mannequin, removing AnimBP from actor.
+[2022.10.31-13.20.08:726][896]LogAnimation: Warning: AnimBP Test_AnimBP_C is incompatible with skeleton SK_Mannequin, removing AnimBP from actor.
+[2022.10.31-13.20.14:001][ 57]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2022.10.31-13.20.14:042][ 57]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.31-13.20.18:607][260]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2022.10.31-13.20.18:630][260]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2022.10.31-13.20.18:640][260]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-13.20.18:641][260]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-13.20.20:343][331]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.31-13.20.20:356][331]LogWorldPartition: Display: GenerateStreaming started...
+[2022.10.31-13.20.20:356][331]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.10.31-13.20.20:356][331]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.31-13.20.20:356][331]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.10.31-13.20.20:356][331]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.10.31-13.20.20:356][331]LogWorldPartition: Display: GetPartitionedActors took 86 us
+[2022.10.31-13.20.20:357][331]LogWorldPartition: Display: GenerateStreaming took 658 us
+[2022.10.31-13.20.20:358][331]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.10.31-13.20.20:361][331]LogPlayLevel: [PlayLevel] Compiling BP_ThirdPersonCharacter before play...
+[2022.10.31-13.20.20:494][331]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.10.31-13.20.20:496][331]LogPlayLevel: PlayLevel: Blueprint regeneration took 137 ms (1 blueprints)
+[2022.10.31-13.20.20:498][331]PIE: New page: PIE session: ThirdPersonMap (1 พ.ย. 2565 03:20:20)
+[2022.10.31-13.20.20:504][331]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.10.31-13.20.20:504][331]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.10.31-13.20.20:508][331]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.10.31-13.20.20:517][331]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.10.31-13.20.20:517][331]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009215s)
+[2022.10.31-13.20.20:517][331]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.009345s)
+[2022.10.31-13.20.20:517][331]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.31-13.20.20:518][331]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.10.31-13.20.20:518][331]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.31-13.20.20:518][331]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.10.31-13.20.20:520][331]LogWorldPartition: Display: WorldPartition initialize took 2 ms
+[2022.10.31-13.20.20:520][331]LogPlayLevel: PIE: World Init took: (0.003957s)
+[2022.10.31-13.20.20:571][331]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.10.31-13.20.20:573][331]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.10.31-13.20.20:573][331]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.31-13.20.20:573][331]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.31-13.20.20:573][331]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.31-13.20.20:573][331]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.31-13.20.20:573][331]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.31-13.20.20:573][331]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.31-13.20.20:573][331]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.31-13.20.20:573][331]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.31-13.20.20:574][331]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.31-13.20.20:574][331]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.31-13.20.20:574][331]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.31-13.20.20:577][331]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.31-13.20.20:614][331]LogAudioMixer: Display: Using Audio Hardware Device ลำโพง (Realtek(R) Audio)
+[2022.10.31-13.20.20:615][331]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.31-13.20.20:615][331]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.31-13.20.20:615][331]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.31-13.20.20:616][331]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.10.31-13.20.20:616][331]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.10.31-13.20.20:619][331]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.10.31-13.20.20:619][331]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.10.31-13.20.20:619][331]LogInit: FAudioDevice initialized.
+[2022.10.31-13.20.20:619][331]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonMap'.
+[2022.10.31-13.20.20:651][331]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.10.31-13.20.20:654][331]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2022.10.31-20.20.20
+[2022.10.31-13.20.20:655][331]LogWorld: Bringing up level for play took: 0.004199
+[2022.10.31-13.20.20:660][331]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2022.10.31-13.20.20:707][331]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=188.173 Y=250.761 Z=452.013
+[2022.10.31-13.20.20:707][331]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.31-13.20.20:710][331]PIE: Server logged in
+[2022.10.31-13.20.20:713][331]PIE: Play in editor total start time 0.36 seconds.
+[2022.10.31-13.20.41:736][481]LogBlueprintUserMessages: [FallvolumeBP_C_UAID_5084928B758B083801_1387611703] You Died!
+[2022.10.31-13.20.44:741][659]LogNet: Browse: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2022.10.31-13.20.44:741][659]LogLoad: LoadMap: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2022.10.31-13.20.44:741][659]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.10.31-13.20.44:742][659]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-13.20.44:742][659]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-13.20.44:866][659]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.31-13.20.44:919][659]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.10.31-13.20.44:922][659]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.10.31-13.20.44:930][659]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.10.31-13.20.44:930][659]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007137s)
+[2022.10.31-13.20.44:930][659]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.007285s)
+[2022.10.31-13.20.44:930][659]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonMap'.
+[2022.10.31-13.20.44:931][659]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.31-13.20.44:931][659]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.10.31-13.20.44:931][659]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.31-13.20.44:931][659]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.10.31-13.20.44:933][659]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.10.31-13.20.44:933][659]LogPlayLevel: PIE: World Init took: (0.002889s)
+[2022.10.31-13.20.44:933][659]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.10.31-13.20.44:934][659]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2022.10.31-20.20.44
+[2022.10.31-13.20.44:935][659]LogWorld: Bringing up level for play took: 0.001882
+[2022.10.31-13.20.44:942][659]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=188.173 Y=250.761 Z=452.013
+[2022.10.31-13.20.44:942][659]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.31-13.20.44:943][659]LogLoad: Took 0.201965 seconds to LoadMap(/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap)
+[2022.10.31-13.20.47:084][784]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.31-13.20.47:084][784]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.10.31-13.20.47:084][784]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-13.20.47:085][784]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-13.20.47:106][784]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.31-13.20.47:113][784]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-13.20.47:168][784]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.31-13.20.47:170][784]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.10.31-13.20.47:173][784]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.10.31-13.20.47:182][784]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.31-13.20.47:251][784]LogUObjectHash: Compacting FUObjectHashTables data took   5.44ms
+[2022.10.31-13.20.47:287][785]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.10.31-13.20.47:972][809]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2022.10.31-13.20.47:972][809]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.31-13.20.56:036][226]LogViewport: Scene viewport resized to 1134x635, mode Windowed.
+[2022.10.31-13.20.58:705][354]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2022.10.31-13.20.58:731][354]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2022.10.31-13.20.58:742][354]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-13.20.58:742][354]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-13.21.01:833][473]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.31-13.21.01:833][473]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.31-13.21.05:797][699]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.31-13.21.05:797][699]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.31-13.21.06:664][735]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2022.10.31-13.21.06:665][735]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.31-13.21.09:466][836]LogViewport: Scene viewport resized to 1134x635, mode Windowed.
+[2022.10.31-13.21.12:301][965]LogViewport: Scene viewport resized to 1135x635, mode Windowed.
+[2022.10.31-13.21.12:386][965]LogViewport: Scene viewport resized to 1136x635, mode Windowed.
+[2022.10.31-13.21.20:564][323]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.31-13.21.26:799][531]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (SK_Mannequin) ...
+[2022.10.31-13.21.26:988][532]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
+[2022.10.31-13.21.58:065][314]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=ชุดสวมศีรษะ (Realtek(R) Audio), InstanceID=1
+[2022.10.31-13.21.58:066][314]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=23148
+[2022.10.31-13.21.58:381][314]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{c425ce48-7d34-4338-8a62-6e1aa7a7a6bc}, Name=ชุดสวมศีรษะ (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=81.73
+[2022.10.31-13.21.58:381][314]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.10.31-13.21.58:395][315]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.10.31-13.22.20:601][662]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.31-13.22.27:541][914]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Docking.TabFont'. Using FTextBlockStyle defaults instead.
+[2022.10.31-13.22.27:541][914]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Docking.TabFont'. Using FTextBlockStyle defaults instead.
+[2022.10.31-13.22.30:190][ 25]LogSlate: Window 'Undo History' being destroyed
+[2022.10.31-13.22.30:224][ 25]LogSlate: Window 'Undo History' being destroyed
+[2022.10.31-13.22.32:261][107]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2022.10.31-13.22.32:274][107]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2022.10.31-13.22.32:279][107]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-13.22.32:279][107]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-13.23.16:646][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Materials/M_Mannequin.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Materials/M_Mannequin.uasset
+[2022.10.31-13.23.16:671][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Meshes/SKM_Manny.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Meshes/SKM_Manny.uasset
+[2022.10.31-13.23.16:765][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Meshes/SK_Mannequin.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset
+[2022.10.31-13.23.16:772][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequin_UE4/Meshes/SK_Mannequin.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin.uasset
+[2022.10.31-13.23.16:777][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequin_UE4/Meshes/SK_Mannequin_PhysicsAsset.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin_PhysicsAsset.uasset
+[2022.10.31-13.23.16:783][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequin_UE4/Meshes/SK_Mannequin_Skeleton.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin_Skeleton.uasset
+[2022.10.31-13.23.16:844][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/ABP_Manny_PostProcess.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/ABP_Manny_PostProcess.uasset
+[2022.10.31-13.23.16:881][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/CR_Mannequin_BasicFootIK.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.uasset
+[2022.10.31-13.23.16:915][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/CR_Mannequin_Procedural.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.uasset
+[2022.10.31-13.23.16:930][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/PA_Mannequin.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/PA_Mannequin.uasset
+[2022.10.31-13.23.16:943][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequin_UE4/Materials/M_MannequinUE4_Body.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequin_UE4/Materials/M_MannequinUE4_Body.uasset
+[2022.10.31-13.23.16:947][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequin_UE4/Materials/M_MannequinUE4_ChestLogo.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequin_UE4/Materials/M_MannequinUE4_ChestLogo.uasset
+[2022.10.31-13.23.16:967][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequin_UE4/Textures/T_ML_Aluminum01.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequin_UE4/Textures/T_ML_Aluminum01.uasset
+[2022.10.31-13.23.16:977][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequin_UE4/Textures/T_ML_Aluminum01_N.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequin_UE4/Textures/T_ML_Aluminum01_N.uasset
+[2022.10.31-13.23.17:003][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_D.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_D.uasset
+[2022.10.31-13.23.17:011][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_N.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_N.uasset
+[2022.10.31-13.23.17:018][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequin_UE4/Textures/T_UE4_Mannequin_MAT_MASKA.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequin_UE4/Textures/T_UE4_Mannequin_MAT_MASKA.uasset
+[2022.10.31-13.23.17:026][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequin_UE4/Textures/T_UE4_Mannequin__normals.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequin_UE4/Textures/T_UE4_Mannequin__normals.uasset
+[2022.10.31-13.23.17:033][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequin_UE4/Textures/T_UELogo_Mask.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequin_UE4/Textures/T_UELogo_Mask.uasset
+[2022.10.31-13.23.17:039][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequin_UE4/Textures/T_UELogo_N_TGA.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequin_UE4/Textures/T_UELogo_N_TGA.uasset
+[2022.10.31-13.23.17:130][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequin_UE4/Materials/Layers/ML_Latex_Black.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequin_UE4/Materials/Layers/ML_Latex_Black.uasset
+[2022.10.31-13.23.17:137][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequin_UE4/Materials/Layers/ML_ShinyPlastic_Beige.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequin_UE4/Materials/Layers/ML_ShinyPlastic_Beige.uasset
+[2022.10.31-13.23.17:143][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequin_UE4/Materials/Layers/ML_ShinyPlastic_Beige_Logo.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequin_UE4/Materials/Layers/ML_ShinyPlastic_Beige_Logo.uasset
+[2022.10.31-13.23.17:148][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequin_UE4/Materials/Layers/ML_SoftMetal.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequin_UE4/Materials/Layers/ML_SoftMetal.uasset
+[2022.10.31-13.23.17:185][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Materials/Functions/CA_Mannequin.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Materials/Functions/CA_Mannequin.uasset
+[2022.10.31-13.23.17:187][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Materials/Functions/ChromaticCurve.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Materials/Functions/ChromaticCurve.uasset
+[2022.10.31-13.23.17:193][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Materials/Functions/MF_Diffraction.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Materials/Functions/MF_Diffraction.uasset
+[2022.10.31-13.23.17:201][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Materials/Functions/MF_logo3layers.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Materials/Functions/MF_logo3layers.uasset
+[2022.10.31-13.23.17:210][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Materials/Functions/ML_BaseColorFallOff.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Materials/Functions/ML_BaseColorFallOff.uasset
+[2022.10.31-13.23.17:219][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Textures/Shared/T_UE_Logo_M.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Textures/Shared/T_UE_Logo_M.uasset
+[2022.10.31-13.23.17:331][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Textures/Manny/T_Manny_01_ASAOPMASK_MSK.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_ASAOPMASK_MSK.uasset
+[2022.10.31-13.23.17:339][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Textures/Manny/T_Manny_01_BN.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_BN.uasset
+[2022.10.31-13.23.17:449][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Textures/Manny/T_Manny_01_CCRCCPlastic_MSK.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_CCRCCPlastic_MSK.uasset
+[2022.10.31-13.23.17:456][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Textures/Manny/T_Manny_01_D.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_D.uasset
+[2022.10.31-13.23.17:462][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Textures/Manny/T_Manny_01_MSR_MSK.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_MSR_MSK.uasset
+[2022.10.31-13.23.17:563][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Textures/Manny/T_Manny_01_N.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_N.uasset
+[2022.10.31-13.23.17:569][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Textures/Manny/T_Manny_01_Tan.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_Tan.uasset
+[2022.10.31-13.23.17:577][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Textures/Manny/T_Manny_02_ASAOPMASK_MSK.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_ASAOPMASK_MSK.uasset
+[2022.10.31-13.23.17:584][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Textures/Manny/T_Manny_02_BN.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_BN.uasset
+[2022.10.31-13.23.17:590][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Textures/Manny/T_Manny_02_CCRCCPlastic_MSK.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_CCRCCPlastic_MSK.uasset
+[2022.10.31-13.23.17:596][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Textures/Manny/T_Manny_02_D.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_D.uasset
+[2022.10.31-13.23.17:602][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Textures/Manny/T_Manny_02_MSR_MSK.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_MSR_MSK.uasset
+[2022.10.31-13.23.17:609][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Textures/Manny/T_Manny_02_N.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_N.uasset
+[2022.10.31-13.23.17:616][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Textures/Manny/T_Manny_02_Tan.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_Tan.uasset
+[2022.10.31-13.23.17:785][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Materials/Instances/Manny/MI_Manny_01.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01.uasset
+[2022.10.31-13.23.17:791][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Materials/Instances/Manny/MI_Manny_02.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02.uasset
+[2022.10.31-13.23.17:990][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/Poses/Manny/Manny_calf_l_anim.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_anim.uasset
+[2022.10.31-13.23.17:995][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/Poses/Manny/Manny_calf_l_pose.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_pose.uasset
+[2022.10.31-13.23.18:001][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/Poses/Manny/Manny_calf_r_anim.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_anim.uasset
+[2022.10.31-13.23.18:007][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/Poses/Manny/Manny_calf_r_pose.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_pose.uasset
+[2022.10.31-13.23.18:012][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_anim.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_anim.uasset
+[2022.10.31-13.23.18:017][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_pose.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_pose.uasset
+[2022.10.31-13.23.18:021][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_anim.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_anim.uasset
+[2022.10.31-13.23.18:028][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_pose.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_pose.uasset
+[2022.10.31-13.23.18:033][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/Poses/Manny/Manny_foot_l_anim.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_anim.uasset
+[2022.10.31-13.23.18:038][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/Poses/Manny/Manny_foot_l_pose.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_pose.uasset
+[2022.10.31-13.23.18:043][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/Poses/Manny/Manny_foot_r_anim.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_anim.uasset
+[2022.10.31-13.23.18:048][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/Poses/Manny/Manny_foot_r_pose.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_pose.uasset
+[2022.10.31-13.23.18:056][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/Poses/Manny/Manny_hand_l_anim.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_anim.uasset
+[2022.10.31-13.23.18:063][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/Poses/Manny/Manny_hand_l_pose.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_pose.uasset
+[2022.10.31-13.23.18:072][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/Poses/Manny/Manny_hand_r_anim.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_anim.uasset
+[2022.10.31-13.23.18:079][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/Poses/Manny/Manny_hand_r_pose.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_pose.uasset
+[2022.10.31-13.23.18:087][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_anim.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_anim.uasset
+[2022.10.31-13.23.18:095][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_pose.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_pose.uasset
+[2022.10.31-13.23.18:103][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_anim.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_anim.uasset
+[2022.10.31-13.23.18:111][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_pose.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_pose.uasset
+[2022.10.31-13.23.18:118][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_anim.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_anim.uasset
+[2022.10.31-13.23.18:124][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_pose.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_pose.uasset
+[2022.10.31-13.23.18:131][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_anim.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_anim.uasset
+[2022.10.31-13.23.18:138][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_pose.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_pose.uasset
+[2022.10.31-13.23.18:143][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_anim.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_anim.uasset
+[2022.10.31-13.23.18:149][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_pose.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_pose.uasset
+[2022.10.31-13.23.18:154][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_anim.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_anim.uasset
+[2022.10.31-13.23.18:159][775]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_pose.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_pose.uasset
+[2022.10.31-13.23.18:228][775]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.10.31-13.23.18:238][775]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2022.10.31-13.23.18:252][775]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+[2022.10.31-13.23.18:261][775]LogPackFactory: Error: Unable to copy file "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset".
+[2022.10.31-13.23.18:274][775]LogPackFactory: Error: Unable to copy file "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Maps/ThirdPersonMap.umap" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/ThirdPerson/Maps/ThirdPersonMap.umap".
+[2022.10.31-13.23.18:287][775]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uasset"
+[2022.10.31-13.23.18:289][775]LogPackFactory: Error: Unable to copy file "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/TK/PIQ0B2FNWR15P52TECP27A.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/TK/PIQ0B2FNWR15P52TECP27A.uasset".
+[2022.10.31-13.23.18:297][775]LogPackFactory: Error: Unable to copy file "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/4/VW/TY7TSUER9KKGHX2BMKSL0L.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/4/VW/TY7TSUER9KKGHX2BMKSL0L.uasset".
+[2022.10.31-13.23.18:299][775]LogPackFactory: Error: Unable to copy file "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/D8/3MZ6M1DB94VN44C87D65WR.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/D8/3MZ6M1DB94VN44C87D65WR.uasset".
+[2022.10.31-13.23.18:304][775]LogPackFactory: Error: Unable to copy file "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/C/7N/FDH7Y28CQFXDK8P6MM1HXM.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/C/7N/FDH7Y28CQFXDK8P6MM1HXM.uasset".
+[2022.10.31-13.23.18:305][775]LogPackFactory: Error: Unable to copy file "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/E/GP/22PD314FCWY4ZK61DE3XZC.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/E/GP/22PD314FCWY4ZK61DE3XZC.uasset".
+[2022.10.31-13.23.18:311][775]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FG/C9C8NKPQ680JETAE5ROTT1.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FG/C9C8NKPQ680JETAE5ROTT1.uasset"
+[2022.10.31-13.23.18:317][775]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/EY/87SHEJN5UBEAN2K5OV1G6R.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/EY/87SHEJN5UBEAN2K5OV1G6R.uasset"
+[2022.10.31-13.23.18:318][775]LogPackFactory: Error: Unable to copy file "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/43/HYQWORMY4JDQ5X3OKZXFLC.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/43/HYQWORMY4JDQ5X3OKZXFLC.uasset".
+[2022.10.31-13.23.18:322][775]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/M3/7JQC72ZY37QM4IT43WD5CW.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/M3/7JQC72ZY37QM4IT43WD5CW.uasset"
+[2022.10.31-13.23.18:328][775]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/P3/O43ETCZTFMLWWH1CJ941H2.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/P3/O43ETCZTFMLWWH1CJ941H2.uasset"
+[2022.10.31-13.23.18:333][775]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset"
+[2022.10.31-13.23.18:341][775]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset"
+[2022.10.31-13.23.18:355][775]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/60/5PI42YRDC8HSSG6BVV2GRR.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/60/5PI42YRDC8HSSG6BVV2GRR.uasset"
+[2022.10.31-13.23.18:365][775]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/LN/30UBDLYFFA5ZR7U4W4L4GG.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/LN/30UBDLYFFA5ZR7U4W4L4GG.uasset"
+[2022.10.31-13.23.18:375][775]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/S1/DXUWD12MD3HRWVVXX076BY.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/S1/DXUWD12MD3HRWVVXX076BY.uasset"
+[2022.10.31-13.23.18:379][775]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.uasset"
+[2022.10.31-13.23.18:385][775]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HF/9H7TKAXH9DD8KI3TIXGI2I.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HF/9H7TKAXH9DD8KI3TIXGI2I.uasset"
+[2022.10.31-13.23.18:392][775]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/CZ/K2YM0JIRZ78IHGM8W2QBAF.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/CZ/K2YM0JIRZ78IHGM8W2QBAF.uasset"
+[2022.10.31-13.23.18:398][775]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset"
+[2022.10.31-13.23.18:404][775]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/J7/N10XDC9G27EMLS5AGZ6AVV.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/J7/N10XDC9G27EMLS5AGZ6AVV.uasset"
+[2022.10.31-13.23.18:413][775]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/NC/UUYHDUFQAXTRRN4RVOPIUF.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/NC/UUYHDUFQAXTRRN4RVOPIUF.uasset"
+[2022.10.31-13.23.18:420][775]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset"
+[2022.10.31-13.23.18:428][775]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XB/9VVR39MG0K7W5GQIEFE7SO.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XB/9VVR39MG0K7W5GQIEFE7SO.uasset"
+[2022.10.31-13.23.18:437][775]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/11/IM858T68EBXCBX1T2FNR96.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/11/IM858T68EBXCBX1T2FNR96.uasset"
+[2022.10.31-13.23.18:445][775]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY.uasset"
+[2022.10.31-13.23.18:457][775]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset"
+[2022.10.31-13.23.18:465][775]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/QO/CO9MG7REJF8N8AQFYRCI06.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/QO/CO9MG7REJF8N8AQFYRCI06.uasset"
+[2022.10.31-13.23.18:476][775]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4D/BBOCKSZY1GVHTFRX0PR0O8.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4D/BBOCKSZY1GVHTFRX0PR0O8.uasset"
+[2022.10.31-13.23.18:486][775]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset"
+[2022.10.31-13.23.18:495][775]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8K/1IKKDYS7RULH8FRYRPPF04.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8K/1IKKDYS7RULH8FRYRPPF04.uasset"
+[2022.10.31-13.23.18:503][775]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EA/9BWDWCNL7OZT2HTML9LK1Y.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EA/9BWDWCNL7OZT2HTML9LK1Y.uasset"
+[2022.10.31-13.23.18:513][775]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset"
+[2022.10.31-13.23.18:522][775]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/17/6LXV4Y6DE3LUT705XNU4DZ.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/17/6LXV4Y6DE3LUT705XNU4DZ.uasset"
+[2022.10.31-13.23.18:532][775]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset"
+[2022.10.31-13.23.18:541][775]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset"
+[2022.10.31-13.23.18:550][775]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/U7/H8YL2PPHZPBTI74SUD0RNL.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/U7/H8YL2PPHZPBTI74SUD0RNL.uasset"
+[2022.10.31-13.23.18:560][775]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/YT/CQR16QFDKKEYP53M51TV4F.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/YT/CQR16QFDKKEYP53M51TV4F.uasset"
+[2022.10.31-13.23.18:569][775]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset"
+[2022.10.31-13.23.18:577][775]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/SY/Z4CTQ4LG3YV10EKPD0UE8Q.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/SY/Z4CTQ4LG3YV10EKPD0UE8Q.uasset"
+[2022.10.31-13.23.18:581][775]LogPackFactory: Error: Unable to copy file "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset".
+[2022.10.31-13.23.18:588][775]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset"
+[2022.10.31-13.23.18:589][775]LogPackFactory: Error: Unable to copy file "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/FR/LBG6LPN5JCL3FMVSI2CK6R.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/FR/LBG6LPN5JCL3FMVSI2CK6R.uasset".
+[2022.10.31-13.23.18:595][775]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.uasset"
+[2022.10.31-13.23.18:601][775]LogPackFactory: Error: Unable to copy file "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/KN/KHZG97SS6AL73U7AXDWH6J.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/KN/KHZG97SS6AL73U7AXDWH6J.uasset".
+[2022.10.31-13.23.18:609][775]LogPackFactory: Error: Unable to copy file "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.uasset".
+[2022.10.31-13.23.18:617][775]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW.uasset"
+[2022.10.31-13.23.18:625][775]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FB/8RB55FM1HBEUVO4IOQC4YN.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FB/8RB55FM1HBEUVO4IOQC4YN.uasset"
+[2022.10.31-13.23.18:838][775]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.009843 seconds
+[2022.10.31-13.23.18:865][775]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2022.10.31-13.23.18:867][775]LogSavePackage: Moving '../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Saved/BP_ThirdPersonCharacterE8C351FD4D55C250FD615FB024D83C5D.tmp' to '../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2022.10.31-13.23.18:892][775]LogLinker: Warning: Failed to load '/Game/ThirdPerson/Blueprints': Can't find file.
+[2022.10.31-13.23.18:894][775]LogLinker: Warning: Failed to load '/Game/ThirdPerson/Blueprints': Can't find file.
+[2022.10.31-13.23.18:894][775]LogUObjectGlobals: Warning: Failed to find object 'Object None./Game/ThirdPerson/Blueprints'
+[2022.10.31-13.23.18:958][775]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2022.10.31-13.23.18:958][775]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2022.10.31-13.23.21:293][907]LogSlate: Window 'Add Content to the Project' being destroyed
+[2022.10.31-13.23.22:589][964]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2022.10.31-13.23.22:590][964]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.31-13.23.26:425][128]LogViewport: Scene viewport resized to 1134x635, mode Windowed.
+[2022.10.31-13.23.30:007][296]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2022.10.31-13.23.30:020][296]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2022.10.31-13.23.30:024][296]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-13.23.30:024][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-13.23.38:546][771]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.31-13.23.38:555][771]LogWorldPartition: Display: GenerateStreaming started...
+[2022.10.31-13.23.38:555][771]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.10.31-13.23.38:555][771]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.31-13.23.38:555][771]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.10.31-13.23.38:555][771]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.10.31-13.23.38:555][771]LogWorldPartition: Display: GetPartitionedActors took 64 us
+[2022.10.31-13.23.38:555][771]LogWorldPartition: Display: GenerateStreaming took 496 us
+[2022.10.31-13.23.38:556][771]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.10.31-13.23.38:558][771]LogPlayLevel: [PlayLevel] Compiling BP_ThirdPersonCharacter before play...
+[2022.10.31-13.23.38:706][771]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2022.10.31-13.23.38:711][771]LogPlayLevel: PlayLevel: Blueprint regeneration took 155 ms (1 blueprints)
+[2022.10.31-13.23.38:711][771]PIE: New page: PIE session: ThirdPersonMap (1 พ.ย. 2565 03:23:38)
+[2022.10.31-13.23.38:713][771]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.10.31-13.23.38:719][771]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.10.31-13.23.38:719][771]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006335s)
+[2022.10.31-13.23.38:719][771]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.006441s)
+[2022.10.31-13.23.38:719][771]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.31-13.23.38:719][771]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.10.31-13.23.38:720][771]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.31-13.23.38:720][771]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.10.31-13.23.38:721][771]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.10.31-13.23.38:721][771]LogPlayLevel: PIE: World Init took: (0.002773s)
+[2022.10.31-13.23.38:756][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.10.31-13.23.38:756][771]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.10.31-13.23.38:757][771]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.31-13.23.38:757][771]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.31-13.23.38:757][771]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.31-13.23.38:757][771]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.31-13.23.38:757][771]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.31-13.23.38:757][771]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.31-13.23.38:757][771]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.31-13.23.38:757][771]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.31-13.23.38:757][771]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.31-13.23.38:757][771]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.31-13.23.38:757][771]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.31-13.23.38:759][771]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.31-13.23.38:784][771]LogAudioMixer: Display: Using Audio Hardware Device ชุดสวมศีรษะ (Realtek(R) Audio)
+[2022.10.31-13.23.38:784][771]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.31-13.23.38:784][771]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.31-13.23.38:784][771]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.31-13.23.38:785][771]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.10.31-13.23.38:785][771]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.10.31-13.23.38:787][771]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.10.31-13.23.38:787][771]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.10.31-13.23.38:787][771]LogInit: FAudioDevice initialized.
+[2022.10.31-13.23.38:787][771]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonMap'.
+[2022.10.31-13.23.38:802][771]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.10.31-13.23.38:805][771]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2022.10.31-20.23.38
+[2022.10.31-13.23.38:806][771]LogWorld: Bringing up level for play took: 0.002802
+[2022.10.31-13.23.38:808][771]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2022.10.31-13.23.38:818][771]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=188.173 Y=250.761 Z=452.013
+[2022.10.31-13.23.38:818][771]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.31-13.23.38:819][771]PIE: Server logged in
+[2022.10.31-13.23.38:820][771]PIE: Play in editor total start time 0.266 seconds.
+[2022.10.31-13.23.40:607][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.31-13.23.40:607][859]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.10.31-13.23.40:607][859]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.31-13.23.40:608][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-13.23.40:629][859]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.31-13.23.40:634][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.31-13.23.40:688][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.31-13.23.40:689][859]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.10.31-13.23.40:691][859]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.10.31-13.23.40:704][859]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.10.31-13.23.40:927][860]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2022.10.31-13.23.51:921][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2022.10.31-13.23.53:545][382]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.31-13.23.53:770][382]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+	Asset Type: Blueprint
+	Asset Name: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+	Asset Type: Blueprint
+[2022.10.31-13.23.54:211][382]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2022.10.31-13.23.54:365][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2022.10.31-13.23.54:408][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.10.31-13.23.54:442][382]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.31-13.24.04:593][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Materials/M_Mannequin.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Materials/M_Mannequin.uasset
+[2022.10.31-13.24.04:593][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/ABP_Manny_PostProcess.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/ABP_Manny_PostProcess.uasset
+[2022.10.31-13.24.04:595][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/CR_Mannequin_BasicFootIK.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.uasset
+[2022.10.31-13.24.04:606][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/CR_Mannequin_Procedural.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.uasset
+[2022.10.31-13.24.04:606][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/PA_Mannequin.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/PA_Mannequin.uasset
+[2022.10.31-13.24.04:607][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Meshes/SKM_Manny.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Meshes/SKM_Manny.uasset
+[2022.10.31-13.24.04:678][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Meshes/SK_Mannequin.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset
+[2022.10.31-13.24.04:679][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequin_UE4/Materials/M_MannequinUE4_Body.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequin_UE4/Materials/M_MannequinUE4_Body.uasset
+[2022.10.31-13.24.04:679][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequin_UE4/Materials/M_MannequinUE4_ChestLogo.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequin_UE4/Materials/M_MannequinUE4_ChestLogo.uasset
+[2022.10.31-13.24.04:681][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequin_UE4/Textures/T_ML_Aluminum01.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequin_UE4/Textures/T_ML_Aluminum01.uasset
+[2022.10.31-13.24.04:681][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequin_UE4/Textures/T_ML_Aluminum01_N.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequin_UE4/Textures/T_ML_Aluminum01_N.uasset
+[2022.10.31-13.24.04:682][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_D.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_D.uasset
+[2022.10.31-13.24.04:682][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_N.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_N.uasset
+[2022.10.31-13.24.04:682][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequin_UE4/Textures/T_UE4_Mannequin_MAT_MASKA.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequin_UE4/Textures/T_UE4_Mannequin_MAT_MASKA.uasset
+[2022.10.31-13.24.04:682][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequin_UE4/Textures/T_UE4_Mannequin__normals.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequin_UE4/Textures/T_UE4_Mannequin__normals.uasset
+[2022.10.31-13.24.04:682][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequin_UE4/Textures/T_UELogo_Mask.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequin_UE4/Textures/T_UELogo_Mask.uasset
+[2022.10.31-13.24.04:683][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequin_UE4/Textures/T_UELogo_N_TGA.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequin_UE4/Textures/T_UELogo_N_TGA.uasset
+[2022.10.31-13.24.04:683][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequin_UE4/Meshes/SK_Mannequin.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin.uasset
+[2022.10.31-13.24.04:684][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequin_UE4/Meshes/SK_Mannequin_PhysicsAsset.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin_PhysicsAsset.uasset
+[2022.10.31-13.24.04:684][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequin_UE4/Meshes/SK_Mannequin_Skeleton.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin_Skeleton.uasset
+[2022.10.31-13.24.04:692][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Materials/Functions/CA_Mannequin.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Materials/Functions/CA_Mannequin.uasset
+[2022.10.31-13.24.04:693][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Materials/Functions/ChromaticCurve.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Materials/Functions/ChromaticCurve.uasset
+[2022.10.31-13.24.04:693][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Materials/Functions/MF_Diffraction.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Materials/Functions/MF_Diffraction.uasset
+[2022.10.31-13.24.04:694][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Materials/Functions/MF_logo3layers.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Materials/Functions/MF_logo3layers.uasset
+[2022.10.31-13.24.04:694][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Materials/Functions/ML_BaseColorFallOff.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Materials/Functions/ML_BaseColorFallOff.uasset
+[2022.10.31-13.24.04:698][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Textures/Manny/T_Manny_01_ASAOPMASK_MSK.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_ASAOPMASK_MSK.uasset
+[2022.10.31-13.24.04:699][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Textures/Manny/T_Manny_01_BN.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_BN.uasset
+[2022.10.31-13.24.04:699][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Textures/Manny/T_Manny_01_CCRCCPlastic_MSK.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_CCRCCPlastic_MSK.uasset
+[2022.10.31-13.24.04:699][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Textures/Manny/T_Manny_01_D.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_D.uasset
+[2022.10.31-13.24.04:699][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Textures/Manny/T_Manny_01_MSR_MSK.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_MSR_MSK.uasset
+[2022.10.31-13.24.04:700][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Textures/Manny/T_Manny_01_N.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_N.uasset
+[2022.10.31-13.24.04:700][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Textures/Manny/T_Manny_01_Tan.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_Tan.uasset
+[2022.10.31-13.24.04:700][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Textures/Manny/T_Manny_02_ASAOPMASK_MSK.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_ASAOPMASK_MSK.uasset
+[2022.10.31-13.24.04:700][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Textures/Manny/T_Manny_02_BN.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_BN.uasset
+[2022.10.31-13.24.04:701][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Textures/Manny/T_Manny_02_CCRCCPlastic_MSK.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_CCRCCPlastic_MSK.uasset
+[2022.10.31-13.24.04:701][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Textures/Manny/T_Manny_02_D.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_D.uasset
+[2022.10.31-13.24.04:701][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Textures/Manny/T_Manny_02_MSR_MSK.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_MSR_MSK.uasset
+[2022.10.31-13.24.04:702][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Textures/Manny/T_Manny_02_N.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_N.uasset
+[2022.10.31-13.24.04:702][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Textures/Manny/T_Manny_02_Tan.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_Tan.uasset
+[2022.10.31-13.24.04:806][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequin_UE4/Materials/Layers/ML_Latex_Black.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequin_UE4/Materials/Layers/ML_Latex_Black.uasset
+[2022.10.31-13.24.04:806][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequin_UE4/Materials/Layers/ML_ShinyPlastic_Beige.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequin_UE4/Materials/Layers/ML_ShinyPlastic_Beige.uasset
+[2022.10.31-13.24.04:806][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequin_UE4/Materials/Layers/ML_ShinyPlastic_Beige_Logo.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequin_UE4/Materials/Layers/ML_ShinyPlastic_Beige_Logo.uasset
+[2022.10.31-13.24.04:807][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequin_UE4/Materials/Layers/ML_SoftMetal.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequin_UE4/Materials/Layers/ML_SoftMetal.uasset
+[2022.10.31-13.24.04:807][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Textures/Shared/T_UE_Logo_M.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Textures/Shared/T_UE_Logo_M.uasset
+[2022.10.31-13.24.04:807][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Materials/Instances/Manny/MI_Manny_01.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01.uasset
+[2022.10.31-13.24.04:807][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Materials/Instances/Manny/MI_Manny_02.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02.uasset
+[2022.10.31-13.24.04:808][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/Poses/Manny/Manny_calf_l_anim.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_anim.uasset
+[2022.10.31-13.24.04:808][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/Poses/Manny/Manny_calf_l_pose.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_pose.uasset
+[2022.10.31-13.24.04:808][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/Poses/Manny/Manny_calf_r_anim.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_anim.uasset
+[2022.10.31-13.24.04:808][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/Poses/Manny/Manny_calf_r_pose.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_pose.uasset
+[2022.10.31-13.24.04:809][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_anim.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_anim.uasset
+[2022.10.31-13.24.04:809][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_pose.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_pose.uasset
+[2022.10.31-13.24.04:809][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_anim.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_anim.uasset
+[2022.10.31-13.24.04:809][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_pose.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_pose.uasset
+[2022.10.31-13.24.04:809][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/Poses/Manny/Manny_foot_l_anim.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_anim.uasset
+[2022.10.31-13.24.04:810][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/Poses/Manny/Manny_foot_l_pose.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_pose.uasset
+[2022.10.31-13.24.04:810][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/Poses/Manny/Manny_foot_r_anim.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_anim.uasset
+[2022.10.31-13.24.04:810][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/Poses/Manny/Manny_foot_r_pose.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_pose.uasset
+[2022.10.31-13.24.04:810][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/Poses/Manny/Manny_hand_l_anim.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_anim.uasset
+[2022.10.31-13.24.04:810][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/Poses/Manny/Manny_hand_l_pose.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_pose.uasset
+[2022.10.31-13.24.04:810][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/Poses/Manny/Manny_hand_r_anim.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_anim.uasset
+[2022.10.31-13.24.04:810][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/Poses/Manny/Manny_hand_r_pose.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_pose.uasset
+[2022.10.31-13.24.04:811][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_anim.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_anim.uasset
+[2022.10.31-13.24.04:811][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_pose.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_pose.uasset
+[2022.10.31-13.24.04:811][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_anim.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_anim.uasset
+[2022.10.31-13.24.04:811][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_pose.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_pose.uasset
+[2022.10.31-13.24.04:811][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_anim.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_anim.uasset
+[2022.10.31-13.24.04:811][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_pose.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_pose.uasset
+[2022.10.31-13.24.04:811][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_anim.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_anim.uasset
+[2022.10.31-13.24.04:811][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_pose.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_pose.uasset
+[2022.10.31-13.24.04:811][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_anim.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_anim.uasset
+[2022.10.31-13.24.04:811][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_pose.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_pose.uasset
+[2022.10.31-13.24.04:813][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_anim.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_anim.uasset
+[2022.10.31-13.24.04:813][982]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Characters/Content/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_pose.uasset to ../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_pose.uasset
+[2022.10.31-13.24.04:915][982]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.10.31-13.24.04:923][982]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2022.10.31-13.24.04:924][982]LogPackFactory: Error: Unable to copy file "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Maps/ThirdPersonMap.umap" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/ThirdPerson/Maps/ThirdPersonMap.umap".
+[2022.10.31-13.24.04:929][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uasset"
+[2022.10.31-13.24.04:931][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+[2022.10.31-13.24.04:932][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset"
+[2022.10.31-13.24.04:934][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY.uasset"
+[2022.10.31-13.24.04:935][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FB/8RB55FM1HBEUVO4IOQC4YN.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FB/8RB55FM1HBEUVO4IOQC4YN.uasset"
+[2022.10.31-13.24.04:935][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset"
+[2022.10.31-13.24.04:936][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW.uasset"
+[2022.10.31-13.24.04:936][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/QO/CO9MG7REJF8N8AQFYRCI06.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/QO/CO9MG7REJF8N8AQFYRCI06.uasset"
+[2022.10.31-13.24.04:937][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/S1/DXUWD12MD3HRWVVXX076BY.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/S1/DXUWD12MD3HRWVVXX076BY.uasset"
+[2022.10.31-13.24.04:937][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/60/5PI42YRDC8HSSG6BVV2GRR.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/60/5PI42YRDC8HSSG6BVV2GRR.uasset"
+[2022.10.31-13.24.04:938][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/U7/H8YL2PPHZPBTI74SUD0RNL.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/U7/H8YL2PPHZPBTI74SUD0RNL.uasset"
+[2022.10.31-13.24.04:939][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4D/BBOCKSZY1GVHTFRX0PR0O8.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4D/BBOCKSZY1GVHTFRX0PR0O8.uasset"
+[2022.10.31-13.24.04:939][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EA/9BWDWCNL7OZT2HTML9LK1Y.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EA/9BWDWCNL7OZT2HTML9LK1Y.uasset"
+[2022.10.31-13.24.04:941][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset"
+[2022.10.31-13.24.04:942][982]LogPackFactory: Error: Unable to copy file "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/C/7N/FDH7Y28CQFXDK8P6MM1HXM.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/C/7N/FDH7Y28CQFXDK8P6MM1HXM.uasset".
+[2022.10.31-13.24.04:942][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset"
+[2022.10.31-13.24.04:943][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/YT/CQR16QFDKKEYP53M51TV4F.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/YT/CQR16QFDKKEYP53M51TV4F.uasset"
+[2022.10.31-13.24.04:944][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/11/IM858T68EBXCBX1T2FNR96.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/11/IM858T68EBXCBX1T2FNR96.uasset"
+[2022.10.31-13.24.04:944][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.uasset"
+[2022.10.31-13.24.04:945][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset"
+[2022.10.31-13.24.04:945][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset"
+[2022.10.31-13.24.04:946][982]LogPackFactory: Error: Unable to copy file "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset".
+[2022.10.31-13.24.04:946][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/LN/30UBDLYFFA5ZR7U4W4L4GG.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/LN/30UBDLYFFA5ZR7U4W4L4GG.uasset"
+[2022.10.31-13.24.04:946][982]LogPackFactory: Error: Unable to copy file "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/D8/3MZ6M1DB94VN44C87D65WR.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/D8/3MZ6M1DB94VN44C87D65WR.uasset".
+[2022.10.31-13.24.04:947][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8K/1IKKDYS7RULH8FRYRPPF04.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8K/1IKKDYS7RULH8FRYRPPF04.uasset"
+[2022.10.31-13.24.04:948][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.uasset"
+[2022.10.31-13.24.04:948][982]LogPackFactory: Error: Unable to copy file "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/KN/KHZG97SS6AL73U7AXDWH6J.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/KN/KHZG97SS6AL73U7AXDWH6J.uasset".
+[2022.10.31-13.24.04:949][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FG/C9C8NKPQ680JETAE5ROTT1.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FG/C9C8NKPQ680JETAE5ROTT1.uasset"
+[2022.10.31-13.24.04:949][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset"
+[2022.10.31-13.24.04:950][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset"
+[2022.10.31-13.24.04:950][982]LogPackFactory: Error: Unable to copy file "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/FR/LBG6LPN5JCL3FMVSI2CK6R.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/FR/LBG6LPN5JCL3FMVSI2CK6R.uasset".
+[2022.10.31-13.24.04:950][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset"
+[2022.10.31-13.24.04:951][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/CZ/K2YM0JIRZ78IHGM8W2QBAF.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/CZ/K2YM0JIRZ78IHGM8W2QBAF.uasset"
+[2022.10.31-13.24.04:951][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset"
+[2022.10.31-13.24.04:952][982]LogPackFactory: Error: Unable to copy file "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/TK/PIQ0B2FNWR15P52TECP27A.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/TK/PIQ0B2FNWR15P52TECP27A.uasset".
+[2022.10.31-13.24.04:952][982]LogPackFactory: Error: Unable to copy file "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.uasset".
+[2022.10.31-13.24.04:953][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/NC/UUYHDUFQAXTRRN4RVOPIUF.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/NC/UUYHDUFQAXTRRN4RVOPIUF.uasset"
+[2022.10.31-13.24.04:953][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset"
+[2022.10.31-13.24.04:953][982]LogPackFactory: Error: Unable to copy file "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/E/GP/22PD314FCWY4ZK61DE3XZC.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/E/GP/22PD314FCWY4ZK61DE3XZC.uasset".
+[2022.10.31-13.24.04:954][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset"
+[2022.10.31-13.24.04:954][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HF/9H7TKAXH9DD8KI3TIXGI2I.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HF/9H7TKAXH9DD8KI3TIXGI2I.uasset"
+[2022.10.31-13.24.04:955][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/17/6LXV4Y6DE3LUT705XNU4DZ.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/17/6LXV4Y6DE3LUT705XNU4DZ.uasset"
+[2022.10.31-13.24.04:955][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/J7/N10XDC9G27EMLS5AGZ6AVV.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/J7/N10XDC9G27EMLS5AGZ6AVV.uasset"
+[2022.10.31-13.24.04:956][982]LogPackFactory: Error: Unable to copy file "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/4/VW/TY7TSUER9KKGHX2BMKSL0L.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/4/VW/TY7TSUER9KKGHX2BMKSL0L.uasset".
+[2022.10.31-13.24.04:956][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/M3/7JQC72ZY37QM4IT43WD5CW.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/M3/7JQC72ZY37QM4IT43WD5CW.uasset"
+[2022.10.31-13.24.04:957][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/P3/O43ETCZTFMLWWH1CJ941H2.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/P3/O43ETCZTFMLWWH1CJ941H2.uasset"
+[2022.10.31-13.24.04:957][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XB/9VVR39MG0K7W5GQIEFE7SO.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XB/9VVR39MG0K7W5GQIEFE7SO.uasset"
+[2022.10.31-13.24.04:957][982]LogPackFactory: Error: Unable to copy file "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/43/HYQWORMY4JDQ5X3OKZXFLC.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/43/HYQWORMY4JDQ5X3OKZXFLC.uasset".
+[2022.10.31-13.24.04:958][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/EY/87SHEJN5UBEAN2K5OV1G6R.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/EY/87SHEJN5UBEAN2K5OV1G6R.uasset"
+[2022.10.31-13.24.04:959][982]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/SY/Z4CTQ4LG3YV10EKPD0UE8Q.uasset" to "../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/SY/Z4CTQ4LG3YV10EKPD0UE8Q.uasset"
+[2022.10.31-13.24.05:089][982]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/ThirdPersonMap_BuiltData
+[2022.10.31-13.24.05:089][982]LogSavePackage: Moving '../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Saved/ThirdPersonMap_BuiltData528372ED408FB2F7A7E683ACE3BC919A.tmp' to '../../../../../../Users/Dell/Documents/GitHub/game-thesis/starter_level/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uasset'
+[2022.10.31-13.24.05:104][982]LogLinker: Warning: Failed to load '/Game/ThirdPerson/Blueprints': Can't find file.
+[2022.10.31-13.24.05:105][982]LogLinker: Warning: Failed to load '/Game/ThirdPerson/Blueprints': Can't find file.
+[2022.10.31-13.24.05:105][982]LogUObjectGlobals: Warning: Failed to find object 'Object None./Game/ThirdPerson/Blueprints'
+[2022.10.31-13.24.05:159][982]AssetCheck: New page: Asset Save: ThirdPersonMap_BuiltData
+[2022.10.31-13.24.05:159][982]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPerson/Maps/ThirdPersonMap_BuiltData.ThirdPersonMap_BuiltData
+[2022.10.31-13.24.08:108][208]LogSlate: Window 'Add Content to the Project' being destroyed
+[2022.10.31-13.24.12:305][495]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.31-13.24.12:317][495]LogWorldPartition: Display: GenerateStreaming started...
+[2022.10.31-13.24.12:318][495]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.10.31-13.24.12:318][495]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.31-13.24.12:318][495]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.10.31-13.24.12:318][495]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.10.31-13.24.12:318][495]LogWorldPartition: Display: GetPartitionedActors took 84 us
+[2022.10.31-13.24.12:318][495]LogWorldPartition: Display: GenerateStreaming took 702 us
+[2022.10.31-13.24.12:318][495]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.10.31-13.24.12:319][495]LogPlayLevel: [PlayLevel] Compiling FallvolumeBP before play...
+[2022.10.31-13.24.12:322][495]LogBlueprint: Error: [AssetLog] C:\Users\Dell\Documents\GitHub\game-thesis\starter_level\Content\Checkpoint\FallvolumeBP.uasset: [Compiler] Can't connect pins  Object  and  Other Actor : This cast has an invalid target type (was the class deleted without a redirect?).
+[2022.10.31-13.24.12:322][495]LogBlueprint: Error: [AssetLog] C:\Users\Dell\Documents\GitHub\game-thesis\starter_level\Content\Checkpoint\FallvolumeBP.uasset: [Compiler] Can't connect pins  Other Actor  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2022.10.31-13.24.12:422][495]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.10.31-13.24.12:423][495]LogPlayLevel: PlayLevel: Blueprint regeneration took 105 ms (1 blueprints)
+[2022.10.31-13.24.12:423][495]BlueprintLog: Warning: Blueprint failed to compile:  FallvolumeBP
+[2022.10.31-13.24.12:435][495]LogCustomDialog: Dialog displayed:
+[2022.10.31-13.24.18:220][495]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2022.10.31-13.24.18:323][495]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.10.31-13.24.18:376][495]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.053 s
+[2022.10.31-13.24.18:377][495]LogOutputDevice: Error: === Handled ensure: ===
+[2022.10.31-13.24.18:377][495]LogOutputDevice: Error: 
+[2022.10.31-13.24.18:377][495]LogOutputDevice: Error: Ensure condition failed: IsPackageExternal() [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Classes\GameFramework\Actor.h] [Line: 2228]
+[2022.10.31-13.24.18:377][495]LogOutputDevice: Error: 
+[2022.10.31-13.24.18:377][495]LogOutputDevice: Error: Stack: 
+[2022.10.31-13.24.18:377][495]LogOutputDevice: Error: [Callstack] 0x00007ffcb9ab5fa6 UnrealEditor-Engine.dll!UnknownFunction []
+[2022.10.31-13.24.18:377][495]LogOutputDevice: Error: [Callstack] 0x00007ffcb9acf705 UnrealEditor-Engine.dll!UnknownFunction []
+[2022.10.31-13.24.18:377][495]LogOutputDevice: Error: [Callstack] 0x00007ffcb9ab06aa UnrealEditor-Engine.dll!UnknownFunction []
+[2022.10.31-13.24.18:377][495]LogOutputDevice: Error: [Callstack] 0x00007ffcb493ebed UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.10.31-13.24.18:377][495]LogOutputDevice: Error: [Callstack] 0x00007ffcb547c7f4 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.10.31-13.24.18:377][495]LogOutputDevice: Error: [Callstack] 0x00007ffcb5480cb7 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.10.31-13.24.18:377][495]LogOutputDevice: Error: [Callstack] 0x00007ffcb54805a1 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.10.31-13.24.18:377][495]LogOutputDevice: Error: [Callstack] 0x00007ffcb4e1dcf3 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.10.31-13.24.18:377][495]LogOutputDevice: Error: [Callstack] 0x00007ffcb57aaac6 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.10.31-13.24.18:377][495]LogOutputDevice: Error: [Callstack] 0x00007ff75d6c82f6 UnrealEditor.exe!UnknownFunction []
+[2022.10.31-13.24.18:377][495]LogOutputDevice: Error: [Callstack] 0x00007ff75d6e0d9c UnrealEditor.exe!UnknownFunction []
+[2022.10.31-13.24.18:377][495]LogOutputDevice: Error: [Callstack] 0x00007ff75d6e0e8a UnrealEditor.exe!UnknownFunction []
+[2022.10.31-13.24.18:377][495]LogOutputDevice: Error: [Callstack] 0x00007ff75d6e3c4d UnrealEditor.exe!UnknownFunction []
+[2022.10.31-13.24.18:377][495]LogOutputDevice: Error: [Callstack] 0x00007ff75d6f5564 UnrealEditor.exe!UnknownFunction []
+[2022.10.31-13.24.18:377][495]LogOutputDevice: Error: [Callstack] 0x00007ff75d6f8736 UnrealEditor.exe!UnknownFunction []
+[2022.10.31-13.24.18:377][495]LogOutputDevice: Error: [Callstack] 0x00007ffdae51244d KERNEL32.DLL!UnknownFunction []
+[2022.10.31-13.24.18:377][495]LogOutputDevice: Error: [Callstack] 0x00007ffdaef2df78 ntdll.dll!UnknownFunction []
+[2022.10.31-13.24.18:377][495]LogOutputDevice: Error: 
